@@ -1,1 +1,1 @@
-# SpringMVC-Spring-DataJPA-Hibernate-CRUD-Example-
+# SpringMVC-Spring-DataJPA-CRUD-Example-
